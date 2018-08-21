@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09ee45e8-e60f-4c0c-9f37-d0f08c280a4b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photographyWebsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/photographyWebsite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photographyWebsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/photographyWebsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="09ee45e8-e60f-4c0c-9f37-d0f08c280a4b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +39,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/website/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -80,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/template/website/index.html" />
         <option value="$PROJECT_DIR$/photographyWebsite/urls.py" />
-        <option value="$PROJECT_DIR$/website/views.py" />
         <option value="$PROJECT_DIR$/photographyWebsite/settings.py" />
+        <option value="$PROJECT_DIR$/website/views.py" />
       </list>
     </option>
   </component>
@@ -195,8 +189,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -248,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/website/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>
